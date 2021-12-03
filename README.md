@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wnnrfvr
-- 👀 I’m interested in software engineering
-- 🌱 web development
+- 👀 I am a Game software Devoper
 - 💞️ let us share ideas together.
 - 📫my email wnnrfvr@gmail.com,  phone no: +2348133758168
 
