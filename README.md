@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @wnnrfvr
-- 👀 I am a Game software Devoper
-- 💞️ let us share ideas together.
+Cravecore CEO
+
 - 📫my email wnnrfvr@gmail.com,  phone no: +2348133758168
 
 <!---
